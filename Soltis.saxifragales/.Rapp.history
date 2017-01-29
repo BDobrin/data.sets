@@ -1,0 +1,13 @@
+library(ape)
+stuff<-read.tree("l_tree.rtf")
+stuff<-read.tree("l_tree.txt")
+stuff$tip.label
+stuff<-read.tree("lessing_anal.tre")
+stuff$tip.label
+ls()
+getwd()
+library(ape)
+stuff<-read.tree("saxifrag.ml.tre")
+stuff<-read.tree("saxifrag.ml.tre")
+stuff<-read.tree("saxifrag.ml.newick.nwk")
+stuff$tip.label
